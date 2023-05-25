@@ -6,11 +6,11 @@
 - 👯 Огромное желание команду, в которой можно разиваться и вместе достигать небывалых высот!
 
 ## Социальные сети:
-  [Telegram](https://t.me/BuhTaA)
+    [Telegram](https://t.me/BuhTaA)
 
 ## Стек технологий
 
-![JS](https://cdn-icons-png.flaticon.com/512/919/919828.png)
+![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919828.png)
 
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
