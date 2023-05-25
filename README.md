@@ -12,7 +12,7 @@
 
 <img src='https://cdn-icons-png.flaticon.com/512/919/919828.png' height=50px weight=50px>
 
-<img src='https://iconscout.com/icon/react-1 height=50px' height=50px weight=50px>
+<img src='https://cdn-icons-png.flaticon.com/128/1183/1183672.png' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183673.png' height=50px weight=50px>
 
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
