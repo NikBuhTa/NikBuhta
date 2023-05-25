@@ -10,7 +10,7 @@
 
 ## Стек технологий
 
-![JS](https://simpleicons.org/icons/javascript.svg)
+![JS](https://iconscout.com/icon/javascript-2752148)
 
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
