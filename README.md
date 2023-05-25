@@ -14,6 +14,7 @@
 
 <img src='https://cdn-icons-png.flaticon.com/128/1183/1183672.png' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183673.png' height=50px weight=50px>
 
+<img src='https://www.svgrepo.com/show/448222/figma.svg' height=50px weight=50px>
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
