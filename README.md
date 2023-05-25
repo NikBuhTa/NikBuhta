@@ -10,7 +10,7 @@
 
 ## Стек технологий
 
-<img src='https://cdn-icons-png.flaticon.com/512/919/919828.png'>
+<img src='https://cdn-icons-png.flaticon.com/512/919/919828.png' height=50px weight=50px>
 
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
