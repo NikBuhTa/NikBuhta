@@ -18,27 +18,13 @@
 
 ## Топ-проектов
 ### Mesto 
-     > Сайт, где пользователь может выкладывать фотографии в виде карточек и оценивать другие.
-     > Ссылка => [тут](https://github.com/NikBuhTa/react-mesto-auth)
+ > Сайт, где пользователь может выкладывать фотографии в виде карточек и оценивать другие. <br>
+ > Ссылка => [тут](https://github.com/NikBuhTa/react-mesto-auth)
 
 ### Russian-travel
-     > Сайт, о путешествии через Россию. 
-     > Ссылка => [тут](https://github.com/NikBuhTa/russian-travel)
+ > Сайт, о путешествии через Россию.<br>
+ > Ссылка => [тут](https://github.com/NikBuhTa/russian-travel)
 
 ### F&P mail
-     > Сайт-клон почтового сервича
-     > Ссылка => [тут](https://github.com/NikBuhTa/mail-service)
-<!--
-**NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ > Сайт-клон почтового сервича <br>
+ > Ссылка => [тут](https://github.com/NikBuhTa/mail-service)
