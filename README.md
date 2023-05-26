@@ -10,7 +10,7 @@
 
 ## Стек технологий
 
-<img src='https://cdn-icons-png.flaticon.com/512/919/919828.png' height=50px weight=50px> <img src='https://www.svgrepo.com/show/373931/node2.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452185/css-3.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452228/html-5.svg' height=50px weight=50px>
+<img src='https://www.svgrepo.com/show/373705/js-official.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/373931/node2.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452185/css-3.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452228/html-5.svg' height=50px weight=50px>
 
 <img src='https://cdn-icons-png.flaticon.com/128/1183/1183672.png' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183673.png' height=50px weight=50px>
 
