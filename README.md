@@ -17,9 +17,13 @@
 <img src='https://www.svgrepo.com/show/448222/figma.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452076/notion.svg' height=50px weight=50px>
 
 ## Топ-проектов
-* Mesto 
-> Сайт, позволяющий делиться фотографиями с другими.
+### Mesto 
+> Сайт, где пользователь может выкладывать фотографии в виде карточек и оценивать другие.
+> Ссылка => [тут](https://github.com/NikBuhTa/react-mesto-auth)
 
+### Russian-travel
+> Сайт, о путешествии через Россию. 
+> Ссылка => [тут](https://github.com/NikBuhTa/russian-travel)
 
 <!--
 **NikBuhTa/NikBuhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
