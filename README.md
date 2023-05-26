@@ -5,10 +5,10 @@
 - ⚡ Люблю книги, английский и JS
 - 👯 Огромное желание попасть команду, в которой можно разиваться и вместе достигать небывалых высот!
 
-## <img src='https://www.svgrepo.com/show/230738/world-internet.svg' height=30px weight=30px> Социальные сети:
+## <img src='https://www.svgrepo.com/show/230738/world-internet.svg' height=40px weight=40px> Социальные сети:
 *[Telegram](https://t.me/BuhTaA)*
 
-## Стек технологий
+## <img src='https://www.svgrepo.com/show/512431/list-1540.svg' height=40px weight=40px> Стек технологий
 
 <img src='https://www.svgrepo.com/show/373705/js-official.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/376337/node-js.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/378409/css-fill.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/353884/html-5.svg' height=50px weight=50px>
 
