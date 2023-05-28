@@ -6,7 +6,8 @@
 - 👯 Огромное желание попасть команду, в которой можно разиваться и вместе достигать небывалых высот!
 
 ## <img src='https://www.svgrepo.com/show/230738/world-internet.svg' height=40px weight=40px> Мои контакты:
-[<img src='https://www.svgrepo.com/show/349527/telegram.svg' height=50px weight=50px>](https://t.me/BuhTaA)*
+[<img src='https://www.svgrepo.com/show/349527/telegram.svg' height=50px weight=50px>](https://t.me/BuhTaA)
+<img src='https://www.svgrepo.com/show/501173/email.svg' height=50px weight=50px> mails@bukhbinder.ru
 
 ## <img src='https://www.svgrepo.com/show/512431/list-1540.svg' height=40px weight=40px> Стек технологий
 
