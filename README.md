@@ -5,16 +5,12 @@
 - ⚡ Люблю книги, английский и JS
 - 👯 Огромное желание попасть команду, в которой можно разиваться и вместе достигать небывалых высот!
 
-## <img src='https://www.svgrepo.com/show/230738/world-internet.svg' height=40px weight=40px> Социальные сети:
-*[Telegram](https://t.me/BuhTaA)*
+## <img src='https://www.svgrepo.com/show/230738/world-internet.svg' height=40px weight=40px> Мои контакты:
+[<img src='https://www.svgrepo.com/show/349527/telegram.svg' height=50px weight=50px>](https://t.me/BuhTaA)*
 
 ## <img src='https://www.svgrepo.com/show/512431/list-1540.svg' height=40px weight=40px> Стек технологий
 
-<img src='https://www.svgrepo.com/show/373705/js-official.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/376337/node-js.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/378409/css-fill.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/353884/html-5.svg' height=50px weight=50px>
-
-<img src='https://cdn-icons-png.flaticon.com/128/1183/1183672.png' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183673.png' height=50px weight=50px>
-
-<img src='https://www.svgrepo.com/show/448222/figma.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452076/notion.svg' height=50px weight=50px>
+<img src='https://www.svgrepo.com/show/373705/js-official.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/376337/node-js.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/378409/css-fill.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/353884/html-5.svg' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183672.png' height=50px weight=50px> <img src='https://cdn-icons-png.flaticon.com/128/1183/1183673.png' height=50px weight=50px> <img src='https://www.svgrepo.com/show/448222/figma.svg' height=50px weight=50px> <img src='https://www.svgrepo.com/show/452076/notion.svg' height=50px weight=50px>
 
 ## Топ-проектов
 ### Mesto 
